@@ -6,7 +6,7 @@
   tasks:
     - name: Thêm cổng vào vlan
     ios_vlan:
-      vlan_id: 100
+      vlan_id: 33
       interfaces:
         - Et0/1
         - Et0/2

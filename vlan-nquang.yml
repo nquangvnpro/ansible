@@ -19,3 +19,4 @@
       register: show_vlan
 
     - debug: var=show_vlan.stdout_lines
+    
